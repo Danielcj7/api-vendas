@@ -1,0 +1,6 @@
+Abrir primeiramente o docker
+abrir dbeaver
+abrir insomnia
+rodar o servidor na pasta ( npm run dev) Pasta api-vendas
+na rotas Criar de sessions, enviar e coletar o token
+Trocar o token em Dev> Manage environments
